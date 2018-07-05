@@ -1,6 +1,6 @@
 ![](./resources/logo-medium.png)
 
-# GOTA-BI
+# SanearBI
 
 > INTELIGÊNCIA DE NEGÓCIO APLICADA A SANEAMENTO
 

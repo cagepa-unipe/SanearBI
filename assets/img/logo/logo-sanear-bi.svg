@@ -47,9 +47,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-821.42799"
-     inkscape:cy="538.61778"
+     inkscape:zoom="0.7"
+     inkscape:cx="-185.15655"
+     inkscape:cy="253.33208"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -164,5 +164,32 @@
        inkscape:export-filename="C:\Projetos\SanearBI\assets\img\logo.png"
        inkscape:export-xdpi="241"
        inkscape:export-ydpi="241" />
+    <g
+       id="g33"
+       inkscape:export-filename="C:\Projetos\SanearBI\assets\img\favicon.png"
+       inkscape:export-xdpi="241"
+       inkscape:export-ydpi="241">
+      <image
+         transform="matrix(0.3316449,0,0,0.3316449,71.433194,212.90676)"
+         clip-path="url(#clipPath3912)"
+         width="118.53333"
+         height="137.49866"
+         preserveAspectRatio="none"
+         xlink:href="file:///C:/Projetos/data.science/gota-bi/assets/img/gota.png"
+         id="image23"
+         x="-128.91061"
+         y="20.095148"
+         sodipodi:absref="C:\Projetos\data.science\gota-bi\assets\img\gota.png"
+         inkscape:export-filename="C:\Projetos\SanearBI\assets\img\logo.png"
+         inkscape:export-xdpi="241"
+         inkscape:export-ydpi="241" />
+      <rect
+         y="221.55368"
+         x="22.927483"
+         height="44.685211"
+         width="44.685211"
+         id="rect29"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.04827106;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.14481319, 0.14481319;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
